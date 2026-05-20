@@ -8,9 +8,9 @@
       "id": "identity--06b951fe-2009-4fd6-83be-209e35a609e6",
       "created": "2026-05-20T00:00:00.000Z",
       "modified": "2026-05-20T00:00:00.000Z",
-      "name": "VA3IAN",
+      "name": "ceilingduster",
       "identity_class": "individual",
-      "description": "Reporting analyst (Ian, VA3IAN). Identity object used as created_by_ref for objects in this bundle."
+      "description": "Reporting analyst. Identity object used as created_by_ref for objects in this bundle."
     },
     {
       "type": "marking-definition",
@@ -302,7 +302,7 @@
       "created": "2026-05-20T00:00:00.000Z",
       "modified": "2026-05-20T00:00:00.000Z",
       "name": "ShinyHunters-branded sextortion campaign — observed sample",
-      "description": "Recipient (VA3IAN) received a sextortion email on 2026-05-20 matching the publicly documented ShinyHunters-branded sextortion template. Lure pretexts CarGurus.com breach, claims full device compromise without evidence, and demands USD 2,000 in Bitcoin to wallet bc1q6k7j2crsjalh90a78jzw4wqxstfzvyycxhdyrx within 48 hours. Recipient has not paid and has not been compromised. This bundle is for tracking and detection-engineering use; the operator is unrelated to the real ShinyHunters group.",
+      "description": "Recipient received a sextortion email on 2026-05-20 matching the publicly documented ShinyHunters-branded sextortion template. Lure pretexts CarGurus.com breach, claims full device compromise without evidence, and demands USD 2,000 in Bitcoin to wallet bc1q6k7j2crsjalh90a78jzw4wqxstfzvyycxhdyrx within 48 hours. Recipient has not paid and has not been compromised. This bundle is for tracking and detection-engineering use; the operator is unrelated to the real ShinyHunters group.",
       "report_types": ["campaign", "indicator", "threat-report"],
       "published": "2026-05-20T00:00:00.000Z",
       "object_refs": [
