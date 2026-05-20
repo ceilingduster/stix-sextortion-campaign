@@ -111,18 +111,6 @@
       "description": "Lure cites a real-world breach or combolist source (here: CarGurus.com) to explain how the operator allegedly obtained the recipient's email. The breach reference is plausible because the recipient's email may genuinely appear in third-party combolists, lending false credibility to the rest of the claim."
     },
     {
-      "type": "malware",
-      "spec_version": "2.1",
-      "id": "malware--66cf4bac-675f-438e-815c-004eb891b8c0",
-      "created_by_ref": "identity--06b951fe-2009-4fd6-83be-209e35a609e6",
-      "created": "2026-05-20T00:00:00.000Z",
-      "modified": "2026-05-20T00:00:00.000Z",
-      "name": "Claimed device exploit (fabricated)",
-      "description": "The lure claims an unspecified exploit was installed across all victim devices granting access to microphone, camera, keyboard, photos, browsing history, conversations and contacts. No malware exists; the claim is fabricated. Captured here as a malware object only to model what the lure asserts, not to assert real presence on any system.",
-      "is_family": false,
-      "malware_types": ["unknown"]
-    },
-    {
       "type": "indicator",
       "spec_version": "2.1",
       "id": "indicator--15db5481-cd2b-44df-9510-8c631ae0d6c8",
